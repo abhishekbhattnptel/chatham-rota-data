@@ -1,3 +1,8 @@
 {
-  "rotas": []
+  "metadata": {
+    "lastUpdated": null,
+    "currentWeek": null,
+    "totalWeeks": 0
+  },
+  "weeks": {}
 }
